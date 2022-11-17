@@ -20,7 +20,6 @@
     "has": "^1.0.3",
     "is-core-module": "^2.11.0",
     "nanoid": "^3.3.4",
-    "path-parse": "^1.0.7",
     "picocolors": "^1.0.0",
     "postcss": "^8.4.19",
     "resolve": "^1.22.1",
@@ -28,9 +27,6 @@
     "source-map-js": "^1.0.2",
     "supports-preserve-symlinks-flag": "^1.0.0",
     "three": "^0.146.0"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  }
+  
 }
